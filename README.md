@@ -4,5 +4,5 @@ Horiseon Social Solution Services
 	media marketing since 2019. They strive to offer only the best services out there, helping to increase
 	brand awareness, help improve cost management and lead generation.
 
-	![Finished Website](Develop/assets/images/Finished%20Website)
+	![Finished Website](Develop/assets/images/Finished-Website)
 
